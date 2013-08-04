@@ -1,6 +1,7 @@
 #ifndef __TESTS_HEADER__
 #define __TESTS_HEADER__
 
+#include <stdio.h>
 #include <assert.h>
 
 #include "ast.h"
